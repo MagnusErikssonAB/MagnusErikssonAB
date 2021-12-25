@@ -1,0 +1,5 @@
+- 👋 Hi, I run @MagnusErikssonAB a one man IT consultancy company
+- 👀 I’m interested in architecture, cloud and back-end technology
+- 🌱 I’m currently learning to contribute to OSS projects at GitHub
+- 💞️ I’m looking to collaborate on some interesting OSS project
+- 📫 Messaage me at www.linkedin.com/in/magnusperiksson
